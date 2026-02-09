@@ -1,51 +1,95 @@
-# Hi, I'm Sahil 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="80"/>
+</p>
 
-🎓 M.Sc. Mathematics & Computing @ IIT (ISM) Dhanbad  
-🤖 AI / Machine Learning / Generative AI Developer  
-🚀 Interested in building real-world AI applications  
+<h2 align="center">Hi, I'm Sahil Khan 👋</h2>
 
----
-
-## 🔑 About Me
-I enjoy designing and developing end-to-end AI systems, from data preprocessing and model development to deployment-ready prototypes. My interests include Generative AI, RAG-based systems, multimodal AI agents, and computer vision applications.
-
----
-
-## 🧠 Core Skills
-- Python, C++, SQL  
-- Machine Learning & Deep Learning  
-- Generative AI (LLMs, RAG, Agents)  
-- Computer Vision & NLP  
-- Streamlit-based AI Applications  
+<p align="center">
+  <i>Building practical AI applications and intelligent systems using Machine Learning and Generative AI</i>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
+
+🎓 M.Sc. Mathematics & Computing student at **IIT (ISM) Dhanbad**  
+🤖 Aspiring **AI / Machine Learning Engineer**  
+🧠 Interested in **AI application development, Generative AI, RAG systems, and Computer Vision**
+
+I enjoy building **end-to-end AI prototypes**, starting from data preprocessing and model design to deployment-ready applications using modern AI frameworks.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Programming & Core
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat-square&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat-square&logo=mysql)
+
+### 🔹 AI / ML / GenAI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Experienced-FF6F00?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-Experienced-D00000?style=flat-square&logo=keras)
+![LangChain](https://img.shields.io/badge/LangChain-Experienced-000000?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Experienced-FFD21E?style=flat-square)
+
+### 🔹 Tools & Platforms
+![Streamlit](https://img.shields.io/badge/Streamlit-Experienced-FF4B4B?style=flat-square&logo=streamlit)
+![Git](https://img.shields.io/badge/Git-GitHub-F05032?style=flat-square&logo=git)
+![Colab](https://img.shields.io/badge/Google_Colab-Cloud-F9AB00?style=flat-square&logo=googlecolab)
+
+---
+
+## 🌟 Featured AI Projects
+
 ### 🔊 Voice-Based RAG AI Agent
-- Conversational AI system using LangChain, LangGraph, FAISS
-- Speech-to-speech interaction with Whisper and GPT models
-- Built for real-time demos using Streamlit
+- Conversational AI system using **LangChain, LangGraph, FAISS**
+- Speech-to-speech interaction using **Whisper & GPT models**
+- Deployed as a real-time demo with **Streamlit**
 
 ### 🧩 Multimodal AI Agent
-- Handles text, image, and audio inputs
-- Uses GPT-4o and Whisper for cross-modal reasoning
-- Interactive real-time AI application
+- Supports **text, image, and audio inputs**
+- Cross-modal reasoning using **GPT-4o & Whisper**
+- Interactive AI application with real-time responses
 
 ### 😄 Facial Emotion Recognition System
-- CNN-based emotion detection using FER-2013 dataset
-- Built with TensorFlow, Keras, OpenCV
+- CNN-based emotion detection using **FER-2013 dataset**
+- Built with **TensorFlow, Keras, OpenCV**
 - Real-time emotion analytics application
 
 ---
 
-## 📌 Interests
+## 🎯 Current Focus
 - AI Application Development  
-- Generative AI & Agentic Systems  
-- Applied Machine Learning  
-- Building scalable AI prototypes  
+- Generative AI & RAG Systems  
+- Practical ML & Deep Learning Projects  
+- Deployment-ready AI Prototypes  
 
 ---
 
-## 📫 Contact
-📧 Email: 24ms0107@iitism.ac.in  
-🔗 GitHub: https://github.com/sahilshore
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilshore&show_icons=true&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshore&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/sahilshore">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Learning by building, improving by experimenting"</i>
+</p>
