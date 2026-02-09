@@ -48,15 +48,8 @@ I enjoy building **end-to-end AI prototypes**, starting from data preprocessing 
 ---
 
 ## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sahil-khan-484a94322/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sahilshore" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=sahilshore&show_icons=true&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshore&layout=compact&theme=default&hide_border=true" />
 
 ---
 
