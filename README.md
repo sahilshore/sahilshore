@@ -40,9 +40,9 @@ I enjoy building **end-to-end AI prototypes**, starting from data preprocessing 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilshore&show_icons=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilshore&show_icons=true&hide_border=true&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshore&layout=compact&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshore&layout=compact&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
