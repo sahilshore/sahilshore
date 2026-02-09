@@ -39,8 +39,9 @@ I enjoy building **end-to-end AI prototypes**, starting from data preprocessing 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilshore)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshore&layout=compact)
+<p align="center">
+  <img src="https://metrics.lecoq.io/sahilshore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&config.timezone=Asia/Kolkata" />
+</p>
 
 ---
 
