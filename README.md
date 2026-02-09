@@ -39,20 +39,17 @@ I enjoy building **end-to-end AI prototypes**, starting from data preprocessing 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilshore&show_icons=true&hide_border=true&cache_seconds=1800" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshore&layout=compact&hide_border=true&cache_seconds=1800" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilshore)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshore&layout=compact)
 
 ---
 
 ## 🤝 Connect With Me
-<img src="https://github-readme-stats.vercel.app/api?username=sahilshore&show_icons=true&theme=default&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshore&layout=compact&theme=default&hide_border=true" />
-
----
-
 <p align="center">
-  <i>"Learning by building, improving by experimenting"</i>
+  <a href="https://www.linkedin.com/in/sahil-khan-484a94322/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sahilshore" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
