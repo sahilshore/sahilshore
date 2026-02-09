@@ -37,14 +37,6 @@ I enjoy building **end-to-end AI prototypes**, starting from data preprocessing 
 ![Colab](https://img.shields.io/badge/Google_Colab-Cloud-F9AB00?style=flat-square&logo=googlecolab)
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/sahilshore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&config.timezone=Asia/Kolkata" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sahil-khan-484a94322/" target="_blank">
