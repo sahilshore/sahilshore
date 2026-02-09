@@ -38,34 +38,6 @@ I enjoy building **end-to-end AI prototypes**, starting from data preprocessing 
 ![Git](https://img.shields.io/badge/Git-GitHub-F05032?style=flat-square&logo=git)
 ![Colab](https://img.shields.io/badge/Google_Colab-Cloud-F9AB00?style=flat-square&logo=googlecolab)
 
----
-
-## 🌟 Featured AI Projects
-
-### 🔊 Voice-Based RAG AI Agent
-- Conversational AI system using **LangChain, LangGraph, FAISS**
-- Speech-to-speech interaction using **Whisper & GPT models**
-- Deployed as a real-time demo with **Streamlit**
-
-### 🧩 Multimodal AI Agent
-- Supports **text, image, and audio inputs**
-- Cross-modal reasoning using **GPT-4o & Whisper**
-- Interactive AI application with real-time responses
-
-### 😄 Facial Emotion Recognition System
-- CNN-based emotion detection using **FER-2013 dataset**
-- Built with **TensorFlow, Keras, OpenCV**
-- Real-time emotion analytics application
-
----
-
-## 🎯 Current Focus
-- AI Application Development  
-- Generative AI & RAG Systems  
-- Practical ML & Deep Learning Projects  
-- Deployment-ready AI Prototypes  
-
----
 
 ## 📊 GitHub Stats
 
@@ -83,7 +55,7 @@ I enjoy building **end-to-end AI prototypes**, starting from data preprocessing 
   <a href="https://github.com/sahilshore">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/sahil-khan-484a94322/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
