@@ -1,59 +1,31 @@
 <h1 align="center">Hi 👋, I'm Sahil Khan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%2F+ML+Engineer;Generative+AI+Developer;RAG+Systems+Builder;Deep+Learning+Enthusiast;Building+Real-World+AI+Systems&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%2F+ML+Engineer;Generative+AI+Developer;Building+End-to-End+AI+Systems;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilshore&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sahilshore&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I am a **Mathematics & Computing postgraduate student at IIT (ISM) Dhanbad** with a strong focus on **Artificial Intelligence and Machine Learning Engineering**.
+🎓 M.Sc. Mathematics & Computing @ **IIT (ISM) Dhanbad**  
+🤖 Aspiring **AI / Machine Learning Engineer**  
+🧠 Focused on **Generative AI, RAG Systems, and Computer Vision**  
 
-I specialize in designing and building **end-to-end intelligent systems** — not just training models, but transforming them into **real-world applications** that solve meaningful problems.
-
----
-
-## 🧠 My Engineering Mindset
-
-- 💡 I approach problems with a **mathematics-first thinking**, ensuring strong theoretical grounding  
-- ⚙️ I focus on **system design**, not just isolated models  
-- 🚀 I build solutions that are **deployable, scalable, and practical**  
-- 🧩 I break complex problems into **structured, solvable components**  
-- 📈 I continuously optimize for **performance, efficiency, and usability**
+💡 I build **end-to-end AI systems** — from data pipelines to deployment-ready applications using modern frameworks.
 
 ---
 
-## 🎯 What I Actually Build
+## 🧠 What I Do
 
-✔️ AI-powered applications using **LLMs, RAG, and Agents**  
-✔️ Deep Learning systems for **Computer Vision and NLP tasks**  
-✔️ Data-driven solutions with **real-world datasets**  
-✔️ Interactive AI apps using **Streamlit and modern frameworks**  
-✔️ End-to-end pipelines: **Data → Model → Deployment**
-
----
-
-## 🔍 Areas of Interest
-
-- 🤖 Generative AI & Large Language Models (LLMs)  
-- 🔗 Retrieval-Augmented Generation (RAG Systems)  
-- 🧠 Deep Learning (CNNs, Attention Mechanisms)  
-- 👁️ Computer Vision  
-- 📊 Applied Machine Learning & Data Science  
-
----
-
-## ⚡ What Makes Me Different
-
-- 🚀 I focus on **building systems, not just projects**  
-- 🧠 Strong blend of **Mathematics + Engineering + AI**  
-- 💻 Hands-on experience with **real implementations**  
-- 🎯 Goal-oriented: **creating impactful, usable AI products**  
+- 🔹 Build **AI-powered applications (LLMs, RAG, chatbots)**
+- 🔹 Develop **Deep Learning models (CNN, NLP)**
+- 🔹 Work on **real-world data-driven projects**
+- 🔹 Deploy apps using **Streamlit / Cloud platforms**
 
 ---
 
@@ -80,26 +52,26 @@ I specialize in designing and building **end-to-end intelligent systems** — no
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilshore&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilshore&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sahilshore&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilshore&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshore&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshore&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Contribution Activity
+## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilshore&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilshore&theme=tokyo-night" />
 </p>
 
 ---
@@ -107,12 +79,12 @@ I specialize in designing and building **end-to-end intelligent systems** — no
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilshore&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilshore&theme=onedark&row=1&column=6" />
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahil-khan-484a94322/" target="_blank">
@@ -125,12 +97,8 @@ I specialize in designing and building **end-to-end intelligent systems** — no
 
 ---
 
-## ⚡ Personal Philosophy
+## ⚡ Fun Fact
 
-<p align="center">
-  
-💭 *"I don’t just train models — I design intelligent systems that solve real-world problems efficiently and at scale."*
-
-</p>
+💭 *I don't just build models — I build systems that solve real-world problems.*
 
 ---
