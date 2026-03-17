@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sahil Khan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%2F+ML+Engineer;Generative+AI+Developer;Building+End-to-End+AI+Systems;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%2F+ML+Engineer;Generative+AI+Developer;RAG+Systems+Builder;Computer+Vision+Enthusiast;Building+Real-World+AI+Products&center=true&width=600&height=45">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilshore&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sahilshore&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -14,18 +14,27 @@
 
 🎓 M.Sc. Mathematics & Computing @ **IIT (ISM) Dhanbad**  
 🤖 Aspiring **AI / Machine Learning Engineer**  
-🧠 Focused on **Generative AI, RAG Systems, and Computer Vision**  
 
-💡 I build **end-to-end AI systems** — from data pipelines to deployment-ready applications using modern frameworks.
+💡 I specialize in building **end-to-end AI systems** that go beyond models — focusing on **real-world impact, scalability, and usability**.
 
 ---
 
-## 🧠 What I Do
+### 🧠 My Core Strengths
 
-- 🔹 Build **AI-powered applications (LLMs, RAG, chatbots)**
-- 🔹 Develop **Deep Learning models (CNN, NLP)**
-- 🔹 Work on **real-world data-driven projects**
-- 🔹 Deploy apps using **Streamlit / Cloud platforms**
+- 🔹 Designing **production-ready AI systems**
+- 🔹 Building **LLM-based apps (RAG, Chatbots, Agents)**
+- 🔹 Strong foundation in **Mathematics + Machine Learning**
+- 🔹 Solving real-world problems using **data-driven approaches**
+- 🔹 Writing **clean, scalable, and efficient code**
+
+---
+
+### 🎯 Current Focus
+
+- 🚀 Advanced **Generative AI (LLMs, LangChain, RAG pipelines)**
+- 🧠 **Deep Learning (CNN, Attention Models)**
+- ⚙️ **Model Deployment (Streamlit, Cloud)**
+- 📊 **Data Engineering + Pipeline Optimization**
 
 ---
 
@@ -49,6 +58,53 @@
   <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Google%20Colab-orange?style=for-the-badge"/>
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🔥 1. AI Movie Recommender System
+- 🎯 Built an intelligent recommendation system using **ML + similarity models**
+- ⚡ Deployed using **Streamlit**
+- 📊 Handles real-time recommendations with optimized performance  
+
+🔗 https://github.com/sahilshore/movie-recommender  
+
+---
+
+### 🤖 2. Generative AI Chatbot (RAG-based)
+- 🧠 Built using **LangChain + LLMs + Vector DB**
+- 📚 Implements **Retrieval-Augmented Generation**
+- ⚡ Context-aware responses using custom documents  
+
+🔗 https://github.com/sahilshore/genai-chatbot  
+
+---
+
+### 🧠 3. Facial Emotion Recognition (CNN + Attention)
+- 🎯 Deep Learning model for emotion detection  
+- 🧠 Uses **CNN + Attention Mechanism**
+- 📊 Trained on real-world datasets  
+
+🔗 https://github.com/sahilshore/emotion-recognition  
+
+---
+
+### 📊 4. E-Commerce Sales Data Analysis
+- 📈 End-to-end data analysis project  
+- 🧹 Data cleaning + visualization + insights  
+- 📊 Business decision-focused analytics  
+
+🔗 https://github.com/sahilshore/ecommerce-analysis  
+
+---
+
+# 🌐 Live Applications
+
+| Project | Live Demo |
+|--------|---------|
+| 🎬 Movie Recommender | (Add your Streamlit link) |
+| 🤖 AI Chatbot | (Add deployed link) |
 
 ---
 
@@ -97,8 +153,8 @@
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Personal Philosophy
 
-💭 *I don't just build models — I build systems that solve real-world problems.*
+💭 *"I focus on building AI systems that are not just intelligent, but useful, scalable, and impactful."*
 
 ---
