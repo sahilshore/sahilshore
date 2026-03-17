@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Khan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%2F+ML+Engineer;Generative+AI+Developer;RAG+Systems+Builder;Computer+Vision+Enthusiast;Building+Real-World+AI+Products&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%2F+ML+Engineer;Generative+AI+Developer;RAG+Systems+Builder;Deep+Learning+Enthusiast;Building+Real-World+AI+Systems&center=true&width=650&height=45">
 </p>
 
 <p align="center">
@@ -10,31 +10,50 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 M.Sc. Mathematics & Computing @ **IIT (ISM) Dhanbad**  
-🤖 Aspiring **AI / Machine Learning Engineer**  
+I am a **Mathematics & Computing postgraduate student at IIT (ISM) Dhanbad** with a strong focus on **Artificial Intelligence and Machine Learning Engineering**.
 
-💡 I specialize in building **end-to-end AI systems** that go beyond models — focusing on **real-world impact, scalability, and usability**.
-
----
-
-### 🧠 My Core Strengths
-
-- 🔹 Designing **production-ready AI systems**
-- 🔹 Building **LLM-based apps (RAG, Chatbots, Agents)**
-- 🔹 Strong foundation in **Mathematics + Machine Learning**
-- 🔹 Solving real-world problems using **data-driven approaches**
-- 🔹 Writing **clean, scalable, and efficient code**
+I specialize in designing and building **end-to-end intelligent systems** — not just training models, but transforming them into **real-world applications** that solve meaningful problems.
 
 ---
 
-### 🎯 Current Focus
+## 🧠 My Engineering Mindset
 
-- 🚀 Advanced **Generative AI (LLMs, LangChain, RAG pipelines)**
-- 🧠 **Deep Learning (CNN, Attention Models)**
-- ⚙️ **Model Deployment (Streamlit, Cloud)**
-- 📊 **Data Engineering + Pipeline Optimization**
+- 💡 I approach problems with a **mathematics-first thinking**, ensuring strong theoretical grounding  
+- ⚙️ I focus on **system design**, not just isolated models  
+- 🚀 I build solutions that are **deployable, scalable, and practical**  
+- 🧩 I break complex problems into **structured, solvable components**  
+- 📈 I continuously optimize for **performance, efficiency, and usability**
+
+---
+
+## 🎯 What I Actually Build
+
+✔️ AI-powered applications using **LLMs, RAG, and Agents**  
+✔️ Deep Learning systems for **Computer Vision and NLP tasks**  
+✔️ Data-driven solutions with **real-world datasets**  
+✔️ Interactive AI apps using **Streamlit and modern frameworks**  
+✔️ End-to-end pipelines: **Data → Model → Deployment**
+
+---
+
+## 🔍 Areas of Interest
+
+- 🤖 Generative AI & Large Language Models (LLMs)  
+- 🔗 Retrieval-Augmented Generation (RAG Systems)  
+- 🧠 Deep Learning (CNNs, Attention Mechanisms)  
+- 👁️ Computer Vision  
+- 📊 Applied Machine Learning & Data Science  
+
+---
+
+## ⚡ What Makes Me Different
+
+- 🚀 I focus on **building systems, not just projects**  
+- 🧠 Strong blend of **Mathematics + Engineering + AI**  
+- 💻 Hands-on experience with **real implementations**  
+- 🎯 Goal-oriented: **creating impactful, usable AI products**  
 
 ---
 
@@ -61,73 +80,26 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🔥 1. AI Movie Recommender System
-- 🎯 Built an intelligent recommendation system using **ML + similarity models**
-- ⚡ Deployed using **Streamlit**
-- 📊 Handles real-time recommendations with optimized performance  
-
-🔗 https://github.com/sahilshore/movie-recommender  
-
----
-
-### 🤖 2. Generative AI Chatbot (RAG-based)
-- 🧠 Built using **LangChain + LLMs + Vector DB**
-- 📚 Implements **Retrieval-Augmented Generation**
-- ⚡ Context-aware responses using custom documents  
-
-🔗 https://github.com/sahilshore/genai-chatbot  
-
----
-
-### 🧠 3. Facial Emotion Recognition (CNN + Attention)
-- 🎯 Deep Learning model for emotion detection  
-- 🧠 Uses **CNN + Attention Mechanism**
-- 📊 Trained on real-world datasets  
-
-🔗 https://github.com/sahilshore/emotion-recognition  
-
----
-
-### 📊 4. E-Commerce Sales Data Analysis
-- 📈 End-to-end data analysis project  
-- 🧹 Data cleaning + visualization + insights  
-- 📊 Business decision-focused analytics  
-
-🔗 https://github.com/sahilshore/ecommerce-analysis  
-
----
-
-# 🌐 Live Applications
-
-| Project | Live Demo |
-|--------|---------|
-| 🎬 Movie Recommender | (Add your Streamlit link) |
-| 🤖 AI Chatbot | (Add deployed link) |
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilshore&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilshore&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilshore&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sahilshore&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshore&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshore&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilshore&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilshore&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -135,12 +107,12 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilshore&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilshore&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahil-khan-484a94322/" target="_blank">
@@ -155,6 +127,10 @@
 
 ## ⚡ Personal Philosophy
 
-💭 *"I focus on building AI systems that are not just intelligent, but useful, scalable, and impactful."*
+<p align="center">
+  
+💭 *"I don’t just train models — I design intelligent systems that solve real-world problems efficiently and at scale."*
+
+</p>
 
 ---
