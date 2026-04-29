@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Khan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%2F+ML+Engineer;Generative+AI+Developer;Building+End-to-End+AI+Systems;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%2F+ML+Engineer;ML+Engineer;Generative+AI+Developer;Building+End-to-End+AI+Systems;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 <p align="center">
