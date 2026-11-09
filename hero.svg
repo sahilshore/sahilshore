@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Sahil Khan — AI, ML, and Generative AI builder</title>
+  <desc id="desc">Animated midnight glass hero with a terminal, role cycling, and an end-to-end AI systems message.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080A12"/><stop offset=".52" stop-color="#11152A"/><stop offset="1" stop-color="#20143A"/></linearGradient>
+    <linearGradient id="aurora"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" opacity=".07"/></pattern>
+    <style>
+      .m{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}.s{font-family:Inter,Arial,sans-serif}
+      .fade{animation:fade 4.8s ease-in-out infinite}@keyframes fade{0%,100%{opacity:.35}50%{opacity:.85}}
+      .blink{animation:blink 1s steps(2) infinite}@keyframes blink{50%{opacity:0}}
+      .rise{animation:rise 1.2s ease-out both}@keyframes rise{from{transform:translateY(14px);opacity:0}to{transform:none;opacity:1}}
+      .float{animation:float 5s ease-in-out infinite}@keyframes float{50%{transform:translateY(-8px)}}
+    </style>
+  </defs>
+  <rect width="1200" height="430" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="430" rx="28" fill="url(#dots)"/>
+  <circle cx="1040" cy="40" r="150" fill="#22D3EE" opacity=".11" filter="url(#glow)"/>
+  <circle cx="240" cy="430" r="190" fill="#A78BFA" opacity=".11" filter="url(#glow)"/>
+  <rect x="1.5" y="1.5" width="1197" height="427" rx="27" fill="none" stroke="url(#aurora)" stroke-width="3" opacity=".8"/>
+  <g class="rise">
+    <rect x="58" y="46" width="1084" height="38" rx="19" fill="#070910" stroke="#334155"/>
+    <circle cx="80" cy="65" r="6" fill="#F472B6"/><circle cx="100" cy="65" r="6" fill="#FBBF24"/><circle cx="120" cy="65" r="6" fill="#34D399"/>
+    <text x="150" y="70" class="m" font-size="14" fill="#94A3B8">sahil@ai-lab: ~/building-systems</text>
+    <text x="1072" y="70" class="m" font-size="12" fill="#22D3EE">LIVE</text>
+  </g>
+  <g transform="translate(68 132)" class="rise">
+    <rect width="640" height="232" rx="20" fill="#090C16" stroke="#26324B"/>
+    <text x="30" y="42" class="m" font-size="15" fill="#64748B">$ whoami</text>
+    <text x="30" y="82" class="s" font-weight="800" font-size="42" fill="#F8FAFC">Sahil Khan</text>
+    <rect x="30" y="100" width="470" height="3" rx="2" fill="url(#aurora)" class="fade"/>
+    <text x="30" y="138" class="m" font-size="18" fill="#22D3EE">AI / ML builder</text>
+    <text x="30" y="168" class="m" font-size="18" fill="#A78BFA">Generative AI + agentic systems</text>
+    <text x="30" y="198" class="m" font-size="18" fill="#F472B6">MLOps + deployable products</text>
+    <rect x="30" y="211" width="12" height="22" fill="#F8FAFC" class="blink"/>
+  </g>
+  <g transform="translate(754 132)" class="float">
+    <rect width="388" height="232" rx="20" fill="#0B1020" stroke="#334155"/>
+    <text x="26" y="34" class="m" font-size="12" fill="#64748B">SYSTEM BLUEPRINT / 001</text>
+    <path d="M42 70h85l25 28h80l25 28h86" fill="none" stroke="url(#aurora)" stroke-width="3" stroke-dasharray="8 8"/>
+    <g fill="#111A31" stroke="#38BDF8"><rect x="28" y="55" width="96" height="42" rx="10"/><rect x="150" y="84" width="96" height="42" rx="10"/><rect x="272" y="112" width="90" height="42" rx="10"/></g>
+    <text x="47" y="81" class="m" font-size="11" fill="#CBD5E1">DATA</text><text x="165" y="110" class="m" font-size="11" fill="#CBD5E1">AGENT</text><text x="286" y="138" class="m" font-size="11" fill="#CBD5E1">SHIP</text>
+    <text x="28" y="191" class="s" font-size="16" fill="#E2E8F0">From experiment to</text>
+    <text x="28" y="216" class="s" font-size="16" font-weight="700" fill="#22D3EE">useful software.</text>
+  </g>
+</svg>
