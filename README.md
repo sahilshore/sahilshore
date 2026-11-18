@@ -84,7 +84,7 @@ My strongest signal is end-to-end ownership: I like taking an idea from ingestio
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilshore&hide_border=true&theme=tokyonight" alt="GitHub contribution streak">
 </div>
 
-<img src="./contribution-city.svg?v=2" alt="Animated contribution city" width="100%">
+<img src="./profile-3d-contrib/profile-green-animate.svg?v=2" alt="Animated GitHub contribution city" width="100%">
 
 ## Connect
 

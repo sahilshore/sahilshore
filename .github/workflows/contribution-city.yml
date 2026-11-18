@@ -13,13 +13,30 @@ jobs:
     name: Generate contribution visualization
     runs-on: ubuntu-latest
     steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@v4
+
       - name: Generate 3D contribution profile
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
+      - name: Update public repository count
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          count="$(
+            gh api --paginate "/users/${USERNAME}/repos?per_page=100&type=owner" \
+              --jq '.[] | select(.private == false and .fork == false) | .id' |
+              wc -l |
+              tr -d ' '
+          )"
+          sed -i -E "s/[0-9]+%20public%20projects/${count}%20public%20projects/" README.md
+
       - name: Commit generated profile art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Refresh contribution city"
-          file_pattern: "profile-3d-contrib/**"
+          file_pattern: "profile-3d-contrib/** README.md"
