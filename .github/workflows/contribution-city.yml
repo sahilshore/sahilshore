@@ -41,9 +41,12 @@ jobs:
             -e "s/[0-9]+%20public%20projects/${count}%20public%20projects/g" \
             -e "s/alt=\"[0-9]+ public projects\"/alt=\"${count} public projects\"/" \
             README.md
+          sed -i -E \
+            "s/(>)[0-9]+(<\/text><text x=\"74\" y=\"57\")/\1${count}\2/" \
+            id-dashboard.svg
 
       - name: Commit generated profile art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Refresh contribution city"
-          file_pattern: "profile-3d-contrib/** README.md"
+          file_pattern: "profile-3d-contrib/** README.md id-dashboard.svg"
