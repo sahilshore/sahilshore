@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://github.com/sahilshore?tab=repositories"><img src="https://img.shields.io/badge/33%20public%20projects-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="33 public projects"></a>
+<a href="https://github.com/sahilshore?tab=repositories"><img src="https://img.shields.io/badge/34%20public%20projects-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="34 public projects"></a>
 <a href="https://www.linkedin.com/in/sahil-khan-484a94322/"><img src="https://img.shields.io/badge/Available%20for%20collaboration-0891B2?style=for-the-badge&logo=handshake&logoColor=white" alt="Available for collaboration"></a>
 <a href="https://github.com/sahilshore"><img src="https://komarev.com/ghpvc/?username=sahilshore&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views"></a>
 
